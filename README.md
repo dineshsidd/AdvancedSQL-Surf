@@ -3,23 +3,23 @@ AdvancedSQL-Surf
 
 ### Home Page with all the possible Navigation Paths
 Flask app allows the users to navigate to following paths to get the detailed information about precipitation, stations, Tobs and Mim ,Avg & Max Temparatures
-![home.jpeg](images/home.jpeg)
+![Home.png](images/Home.png)
 
 ### Precipitation Data
 Following graph shows 12 month precipitation observations
 ![precipitation.png](precipitation.png)
 
 Following Screenshot is from the Flask App that shows the raw data in HTML and JSON Format
-![precipitationHTML.jpg](images/precipitationHTML.jpg)
-![precipitationJSON.jpg](images/precipitationJSON.jpg)
+![PrecipitationHTML.jpg](images/PrecipitationHTML.jpg)
+![PrecipitationJSON.jpg](images/PrecipitationJSON.jpg)
 
 ### Tobs Data
 Following Graphs show the Temprature observations
 ![tobs.png](tobs.png)
 
 Following Screenshot is from the Flask App that shows the raw data in HTML and JSON Format
-![tobsHTML.jpg](images/tobsHTML.jpg)
-![tobsJSON.jpg](images/tobsJSON.jpg)
+![TobsHTML.jpg](images/TobsHTML.jpg)
+![TobsJSON.jpg](images/TobsJSON.jpg)
 
 ### Stations Data
 Following Screenshot is from the Flask App that shows the raw data of Stations in HTML and JSON Format
