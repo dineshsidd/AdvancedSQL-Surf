@@ -10,25 +10,25 @@ Following graph shows 12 month precipitation observations
 ![precipitation.png](precipitation.png)
 
 Following Screenshot is from the Flask App that shows the raw data in HTML and JSON Format
-![PrecipitationHTML.jpg](images/PrecipitationHTML.jpg)
-![PrecipitationJSON.jpg](images/PrecipitationJSON.jpg)
+![PrecipitationHTML.png](images/PrecipitationHTML.png)
+![PrecipitationJSON.png](images/PrecipitationJSON.png)
 
 ### Tobs Data
 Following Graphs show the Temprature observations
 ![tobs.png](tobs.png)
 
 Following Screenshot is from the Flask App that shows the raw data in HTML and JSON Format
-![TobsHTML.jpg](images/TobsHTML.jpg)
-![TobsJSON.jpg](images/TobsJSON.jpg)
+![TobsHTML.png](images/TobsHTML.png)
+![TobsJSON.png](images/TobsJSON.png)
 
 ### Stations Data
 Following Screenshot is from the Flask App that shows the raw data of Stations in HTML and JSON Format
-![Stations_HTML_JSON.jpg](images/Stations_HTML_JSON.jpg)
+![Stations_HTML_JSON.png](images/Stations_HTML_JSON.png)
 
 ### Functions Min,Avg & Max Temparatures  
 The screenshots are from the Flask app that calls python functions in the background to get the Min , Max and Average Temparatures based on the dates entered.
-![Temp_start.jpg](images/Temp_start.jpg)
-![Temp_Between.jpg](images/Temp_Between.jpg)
+![Temp_start.png](images/Temp_start.png)
+![Temp_Between.png](images/Temp_Between.png)
 
 ### Figure shows Daily normals for the Trip
 ![norms.png](norms.png)
